@@ -1,5 +1,5 @@
 # Automatic Collaborative Worlds Setup - ACWS
-Modern problems require 20 year old horribly poorly designed programming language solutions (screw batch scripts)
+Modern problems require 20 year old-programming-language solutions (screw batch scripts)
 
 # What this is
 A custom installer that installs all you need to upload your Unity project to GitHub
