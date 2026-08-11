@@ -1,6 +1,10 @@
 # Automatic Collaborative Worlds Setup - ACWS
 Modern problems require 20 year old horribly poorly designed programming language solutions (screw batch scripts)
 
+# What this is
+A custom installer that installs all you need to upload your Unity project to GitHub
+Once your set up is correct, it will let you select a project to upload and completely set it up and upload it to GitHub, opening the resulting repository
+
 # How to use
 - Place "Collaborative Worlds Setup.bat" in the same folder that contains your Unity Project's folder 
 - Run it
