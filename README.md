@@ -16,6 +16,9 @@ It will help you through all the requirements of getting your project to GitHub 
 
 # ".bat files are scary!"
 Agreed, so, full disclosure on what the script does:
-- The script only works within the same folder it is placed at, it doesn't do anything outside that
-- It does not delete anything
-- The script can alter git and git-cli configs to help you get the correct setup for this
+- It only works within the same folder it is placed at, it doesn't do anything outside that
+- It does not delete anything so no risks, it only installs git, git cli and initializes git lfs before uploading
+- The script can alter git and git-cli configs to help you get the correct setup
+
+In any case it's open source, throw the batch file at some AI and it will verify this if you don't want to read through the horror that is batch scripting or don't have the knowledge to
+Cheers 🍾
