@@ -21,4 +21,5 @@ Agreed, so, full disclosure on what the script does:
 - The script can alter git and git-cli configs to help you get the correct setup
 
 In any case it's open source, throw the batch file at some AI and it will verify this if you don't want to read through the horror that is batch scripting or don't have the knowledge to
+
 Cheers 🍾
